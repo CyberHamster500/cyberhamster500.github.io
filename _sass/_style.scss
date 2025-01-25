@@ -13,13 +13,23 @@ body {
     margin: 0;
     font-family: "Inconsolata";
     height: 100%;
+    background-color: #363636;
+    color:azure
 }
+h1, h2 {
+    color: #00ff00; /* 사이버 느낌의 초록색 */
+    
+}
+
+
+
 a {
     text-decoration: none;
     color: $accent;
 }
 a:hover {
     text-decoration: underline;
+    color: #36fcff
 }
 hr {
     border: 0;
@@ -34,7 +44,7 @@ hr {
 
 #author-name {
     font-size: 30px;
-    color: #272727;
+    color: #36fcff;
     display: inline-block;
 }
 .navbar {

@@ -4,42 +4,35 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="HamsterHacker.png">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am an associate professor at Department of Cyber Defense at Sejong University. I lead the CyAI Lab(Cybersecurity X Artifiial Intelligence Laboratory)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- **Cybersecurity and Artificial Intelligence Integration**
+    - LLM based Attack Campaign Analysis
+    - LLM based Command and control
 
-## Publications
+- Cyber attack attribution 
+    - Campaign based Attack Attribution
+    - Intergrated analysis based on multiple source
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- Cybersecurity data augmentation
+    - Packet data generation with GAN
+    - Log data generation with GAN
 
-## Typography
+- Cyber Warfare
+    - Fully automated Simulation/Emulation
+    - AI-supported cyber defense training 
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+- Digital Image/Video Forensics
+    - Forged region detection
+    - Deep fake detection
 
-Here is a table
+## Education
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+- Ph.D. in School of Computing, KAIST (Advisor : Lee Heungkyu)
+- M.S. in School of Computing, KAIST (Advisor : Lee Heungkyu)
+- B.S. in Department of Computer Science and Engineering, Yonsei University
 
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
