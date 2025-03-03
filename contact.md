@@ -12,7 +12,7 @@ We welcome:
 - Master's Students: Passionate about exploring advanced topics in AI-driven security systems.
 - Ph.D. Candidates: Ready to pioneer groundbreaking research at the intersection of cybersecurity and artificial intelligence.
 
-If you are interested in joining us, please send your CV and a brief statement of your research interests to us
+If you are interested in joining us, please send your CV along with a brief statement of your research interests.
 
 ## Partnerships and Projects
 We are always open to exciting project proposals and collaborations in the field of Cybersecurity and Artificial Intelligence.
